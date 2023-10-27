@@ -34,7 +34,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with LiceCap
 ## Notes
 
-Dealing with the API calls.
+Difficulties:
+Dealing with the API calls and reading the data.
 
 ## License
 
