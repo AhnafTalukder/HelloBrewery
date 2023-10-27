@@ -1,0 +1,13 @@
+.item{
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+    justify-content: space-around;
+}
+
+.titles{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    justify-content: space-around;
+}
